@@ -19,7 +19,7 @@ http://www.yes24.com/Product/Goods/18249021
 
 ## 2022년 9월
 ### - Head First SQL
-http://image.yes24.com/momo/TopCate63/MidCate02/6212360.jpg
+[http://image.yes24.com/momo/TopCate63/MidCate02/6212360.jpg](http://www.yes24.com/Product/Goods/2922303)
 
 딱 데이터베이스 입문용으로 읽기 쉬운 책. 데이터베이스에 대해 기초부터 다시 공부할 필요성을 느껴 가볍게 읽기 위해 골랐음.
 헤드 퍼스트 부류의 책은 처음 읽었는데, 내용을 전개하는 방식이 처음엔 되게 낯설었으나 읽다 보니 술술 읽혀 좋았음. 그러나 내용이 너무 쉬워 데이터베이스 기초를 다루는 책을 한 권 더 찾아서 읽어야 할 것 같음.
